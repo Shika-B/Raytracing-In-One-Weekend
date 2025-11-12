@@ -1,7 +1,7 @@
 A single-day quick implementation of the [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html) book. 
 The goal was to get something reasonably clean working fast, and I believe I achieved that:
 
-![Closeup shot](clean2080meta.png "Closeup shot")
+![Closeup shot](clean2080meta.png)
 
 Features checklist:
 - [X] PPM image creation
